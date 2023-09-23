@@ -14,3 +14,7 @@ a{
   text-decoration: none;
   color: white;
 }
+
+a:hover{
+  color: #1de03e;
+}
